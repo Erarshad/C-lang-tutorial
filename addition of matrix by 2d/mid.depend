@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1555582194 source:c:\users\arshad\desktop\mid\main.c
+	<stdio.h>
+	<conio.h>
+
+1555582385 source:d:\library\c lab\addition of matrix by 2d\main.c
+	<stdio.h>
+	<conio.h>
+

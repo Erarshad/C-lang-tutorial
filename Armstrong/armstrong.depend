@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554394639 source:c:\users\arshad\desktop\armstrong\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
+1554394639 source:d:\library\c lab\armstrong\main.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+
